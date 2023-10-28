@@ -1,6 +1,6 @@
 # Couteau App
 
-Couteau is a multi-purpose app that provides various functionalities such as age calculation, gender prediction based on names, weather updates, fetching news articles from a WordPress site, and displaying information about universities in a specific country.
+Couteau is a multi-purpose app developed in React Native that provides various functionalities such as age calculation, gender prediction based on names, weather updates, fetching news articles from a WordPress site, and displaying information about universities in a specific country.
 
 ## Table of Contents
 
